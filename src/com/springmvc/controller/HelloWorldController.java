@@ -8,8 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * A Simple SpringMVC Demo 
- * @author wuMaoZheng
- * @date 2017年12月6日 下午8:20:30
+ * @author Mauger
  * @version V1.0.0
  */
 @Controller
